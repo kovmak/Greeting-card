@@ -16,7 +16,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
    ```
-    git clone https://github.com/your-username/greeting-card.git
+    git clone https://github.com/kovmak/Greeting-card.git
    ```
 
 2. **Navigate to the project directory**:
